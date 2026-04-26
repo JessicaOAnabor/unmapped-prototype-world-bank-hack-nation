@@ -2,9 +2,7 @@
 
 UNMAPPED is a country-agnostic labour intelligence system that converts informal experience into structured, portable skill profiles, estimates AI displacement exposure, and generates realistic economic pathways using live global labour signals.
 
-It is built for a simple yet overlooked reality:
-
-> Most of the world’s workers are absent from its data systems.
+It is built for a simple yet overlooked reality: Most of the world’s workers are absent from its data systems.
 
 ---
 
@@ -24,7 +22,7 @@ This creates a structural blind spot in how opportunity, risk, and workforce tra
 
 ## The Solution
 
-UNMAPPED introduces a **portable skills and labour intelligence layer** that:
+UNMAPPED introduces a portable skills and labour intelligence layer that:
 
 - Translates informal experience into structured skill representations
 - Matches individuals to occupation families using durable skill signals
@@ -54,7 +52,7 @@ This enables comparison across roles that are normally invisible to formal syste
 ### 2. Occupation Matching Model
 Maps individuals to occupation families using:
 - Skill keyword alignment
-- Durable capability signals (not job titles)
+- Durable capability signals 
 - Informal-to-formal translation logic
 - Cross-context portability scoring
 
@@ -71,7 +69,7 @@ A contextual risk model combining:
 - Local economic calibration factors
 - Skill-based resilience buffers (repair, care, craft, sales)
 
-Output: a transparent, explainable risk score.
+The output is a transparent, explainable risk score.
 
 ---
 
